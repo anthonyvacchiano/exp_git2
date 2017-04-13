@@ -25,7 +25,7 @@ public class myclass {
 		// TODO Auto-generated method stub
 		System.out.println("BEGIN");
 		staticMethod("ilker");
-		System.out.println();("END");
+		System.out.println("END");
 
 	}
 	public static void staticMethod(String inp){
